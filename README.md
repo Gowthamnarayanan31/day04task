@@ -1,4 +1,4 @@
-# day04task
+# Day04
 Do the below programs in anonymous function & IIFE
 Print odd numbers in an array
 Convert all the strings to title caps in a string array
